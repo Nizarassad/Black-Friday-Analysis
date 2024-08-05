@@ -4,7 +4,7 @@
 - The study involves data exploration, pre-processing, and the development of a prediction model using a random forest algorithm. We compare our model's accuracy with other models that used the same dataset.
 
 <div align="center">
-  <img height="350" src="https://drive.google.com/file/d/1B-55DfbdmtC1FamjcJrQJIPhSJ1VVpQR/view?usp=sharing" alt="data process" width="500"  />
+  <img height="350" src="https://drive.google.com/file/d/1B-55DfbdmtC1FamjcJrQJIPhSJ1VVpQR" alt="data process" width="500"  />
 </div>
 
 
