@@ -3,9 +3,10 @@
 - The Friday following Thanksgiving, known as "Black Friday," marks the beginning of the holiday shopping season in the US. On this day, many retailers offer significant discounts, attracting a large number of shoppers. This project analyzes customer purchase data from Black Friday to understand preferences for specific products and predict future purchases. 
 - The study involves data exploration, pre-processing, and the development of a prediction model using a random forest algorithm. We compare our model's accuracy with other models that used the same dataset.
 
-<div align="center">
-  <img height="350" src="https://drive.google.com/file/d/1B-55DfbdmtC1FamjcJrQJIPhSJ1VVpQR" alt="data process" width="500"  />
-</div>
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1B-55DfbdmtC1FamjcJrQJIPhSJ1VVpQR" alt="Black Friday Analysis">
+</p>
+
 
 
 ## Keywords
