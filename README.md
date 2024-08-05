@@ -1,6 +1,12 @@
 # Black Friday Data Analysis and Prediction
 
-The Friday following Thanksgiving, known as "Black Friday," marks the beginning of the holiday shopping season in the US. On this day, many retailers offer significant discounts, attracting a large number of shoppers. This project analyzes customer purchase data from Black Friday to understand preferences for specific products and predict future purchases. The aim is to provide personalized discounts based on customer behavior and purchasing power. Utilizing machine learning (ML) models, this study demonstrates higher accuracy in predicting customer preferences than traditional business intelligence methods.
+- The Friday following Thanksgiving, known as "Black Friday," marks the beginning of the holiday shopping season in the US. On this day, many retailers offer significant discounts, attracting a large number of shoppers. This project analyzes customer purchase data from Black Friday to understand preferences for specific products and predict future purchases. 
+- The study involves data exploration, pre-processing, and the development of a prediction model using a random forest algorithm. We compare our model's accuracy with other models that used the same dataset.
+
+<div align="center">
+  <img  src="https://drive.google.com/file/d/1DIPuKNVgX469w9m3QAc749PvTWatOCly/view?usp=sharing" alt="process data"  />
+</div>
+
 
 ## Keywords
 
@@ -8,16 +14,13 @@ Black Friday, machine learning, random forest, visual analytics, deep learning
 
 ## Aim and goals
 
-The goal of this study is to investigate collective consumption patterns on Black Friday, a major shopping day in many countries. As businesses grow into large franchises, understanding customer preferences becomes challenging. Prediction models are necessary to better understand these preferences. This research aims to answer the following questions:
+The aim of this study is to investigate collective consumption patterns on Black Friday, a major shopping day in many countries. As businesses grow into large franchises, understanding customer preferences becomes challenging. Prediction models are necessary to better understand these preferences. This research goals to answer the following questions:
 
 - What is the relationship between factors affecting customer purchases?
 - Which factors are most influential in purchases?
 - Can we create a reliable prediction model for customer purchases?
 
-The study involves data exploration, pre-processing, and the development of a prediction model using a random forest algorithm. We compare our model's accuracy with other models that used the same dataset.
-
-
-## Dataser
+## Dataset
 
 The dataset used in this project is provided by "ABC Private Limited" and contains purchase summaries of customers for selected high-volume products over a month.
 - https://www.researchgate.net/figure/The-Black-Friday-data-made-available-by-ABC-Private-Limited_tbl1_333506727
