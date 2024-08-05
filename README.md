@@ -4,9 +4,8 @@
 - The study involves data exploration, pre-processing, and the development of a prediction model using a random forest algorithm. We compare our model's accuracy with other models that used the same dataset.
 
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1B-55DfbdmtC1FamjcJrQJIPhSJ1VVpQR" alt="Black Friday Analysis">
+  <img src="https://drive.google.com/uc?id=1B-55DfbdmtC1FamjcJrQJIPhSJ1VVpQR" alt="Black Friday Analysis" width="162" height="165.5">
 </p>
-
 
 
 ## Keywords
