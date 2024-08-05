@@ -4,7 +4,7 @@
 - The study involves data exploration, pre-processing, and the development of a prediction model using a random forest algorithm. We compare our model's accuracy with other models that used the same dataset.
 
 <div align="center">
-  <img  src="https://drive.google.com/file/d/1DIPuKNVgX469w9m3QAc749PvTWatOCly/view?usp=sharing" alt="process data"  />
+  <img height="350" src="https://drive.google.com/file/d/1DIPuKNVgX469w9m3QAc749PvTWatOCly/view?usp=sharing" alt="Test Set of Gun Detection" width="500"  />
 </div>
 
 
