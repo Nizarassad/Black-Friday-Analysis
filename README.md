@@ -35,6 +35,11 @@ Quantitative data was used for exploratory analysis. Tools like Python, pandas, 
 
 Data exploration began with a health check and visualizations, such as histograms and box plots, to assess data quality and distribution. The analysis revealed interesting patterns, such as the dominance of male buyers and the influence of occupation on purchasing capacity. The most active buyers were identified as being between 26 and 35 years old.
 
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1kfkYD180n_ScEFLmRh4uD-f3wUuelN9q" alt="Black Friday Analysis" width="343" height="278.25">
+</p>
+
+
 ### Analysis Result
 
 A Random Forest Regressor was used for prediction, achieving an accuracy of 95% on the training dataset and 69% on the testing dataset. The analysis showed that city category and occupation were the most significant factors influencing purchase amounts.
